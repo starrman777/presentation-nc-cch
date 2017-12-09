@@ -1,15 +1,12 @@
 # presentation-nccch
 
-If you have Node installed
-- Navigate to the directory where the presentation exists
-- run the command "http-server"
+If you are interested in discussing concealed carry with me:<br>
 
-You will see something like this:
-```
-estarr$ http-server
-Starting up http-server, serving ./
-Available on:
-  http://127.0.0.1:8080
-Hit CTRL-C to stop the server
-```
-# presentation-nc-cch
+# eric starr
+
+For my Email Address, Replace LASTNAME with the last name that you see above<br>
+
+
+eric.the.LASTNAME@gmail.com
+
+
